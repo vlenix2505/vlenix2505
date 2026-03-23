@@ -69,14 +69,18 @@ Systems Engineering student at **UPC** (9th semester) with a strong focus on **D
 
 ## Featured Projects
 
-| Project | Description | Stack |
-|---|---|---|
-| [📊 COVID-19 Spending Dashboard — Peru](https://github.com/vlenix2505/Dashboard_Gasto_COVID19_Peru) | End-to-end analysis of Peru's COVID-19 public spending (2020–2025): ETL pipeline, SQL Server storage, and interactive Power BI report | Python · SQL Server · Power BI |
-| [⚽ Premier League Performance Analytics](https://github.com/vlenix2505/Premier-League-Performance-Analytics) | Automated scraping and visualization of Premier League stats since 2003, with trend analysis by season and team | Python · Selenium · Pandas |
-| [🌍 Global Market Report](https://github.com/vlenix2505/Global_Market_Report) | Sales performance analysis with data cleaning pipeline and executive Power BI dashboards | Python · Power BI |
-| [🌱 Asparagus Export Analysis — Peru](https://github.com/vlenix2505/Esparrago-Peruano-Export-Analysis) | Interactive Power BI dashboard on Peruvian asparagus exports to Spain (2023), with trade volume and price trend breakdowns | Power BI |
-| [❤️ Heart Disease Prediction](https://github.com/vlenix2505/Heart_Disease_Prediction) | XGBoost classification model for cardiac disease prediction from clinical data, with feature importance analysis | Python · XGBoost · Scikit-learn |
-| [🌳 GreenData](https://github.com/vlenix2505/GreenData) | Deforestation data analysis platform using World Bank open datasets, with geospatial and temporal trend visualizations | Python · World Bank API |
+<div align="center">
+
+[![COVID-19](https://github-readme-stats.vercel.app/api/pin/?username=vlenix2505&repo=Dashboard_Gasto_COVID19_Peru&hide_border=true&theme=default)](https://github.com/vlenix2505/Dashboard_Gasto_COVID19_Peru)
+[![Premier League](https://github-readme-stats.vercel.app/api/pin/?username=vlenix2505&repo=Premier-League-Performance-Analytics&hide_border=true&theme=default)](https://github.com/vlenix2505/Premier-League-Performance-Analytics)
+
+[![Global Market](https://github-readme-stats.vercel.app/api/pin/?username=vlenix2505&repo=Global_Market_Report&hide_border=true&theme=default)](https://github.com/vlenix2505/Global_Market_Report)
+[![Asparagus Export](https://github-readme-stats.vercel.app/api/pin/?username=vlenix2505&repo=Esparrago-Peruano-Export-Analysis&hide_border=true&theme=default)](https://github.com/vlenix2505/Esparrago-Peruano-Export-Analysis)
+
+[![Heart Disease](https://github-readme-stats.vercel.app/api/pin/?username=vlenix2505&repo=Heart_Disease_Prediction&hide_border=true&theme=default)](https://github.com/vlenix2505/Heart_Disease_Prediction)
+[![GreenData](https://github-readme-stats.vercel.app/api/pin/?username=vlenix2505&repo=GreenData&hide_border=true&theme=default)](https://github.com/vlenix2505/GreenData)
+
+</div>
 
 ---
 

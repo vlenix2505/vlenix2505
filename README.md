@@ -71,14 +71,14 @@ Systems Engineering student at **UPC** (9th semester) with a strong focus on **D
 
 <div align="center">
 
-[![COVID-19](https://github-readme-stats.vercel.app/api/pin/?username=vlenix2505&repo=Dashboard_Gasto_COVID19_Peru&hide_border=true&theme=default)](https://github.com/vlenix2505/Dashboard_Gasto_COVID19_Peru)
-[![Premier League](https://github-readme-stats.vercel.app/api/pin/?username=vlenix2505&repo=Premier-League-Performance-Analytics&hide_border=true&theme=default)](https://github.com/vlenix2505/Premier-League-Performance-Analytics)
+[![COVID-19](https://github-stats-extended.vercel.app/api/pin/?username=vlenix2505&repo=Dashboard_Gasto_COVID19_Peru&hide_border=true&theme=default)](https://github.com/vlenix2505/Dashboard_Gasto_COVID19_Peru)
+[![Premier League](https://github-stats-extended.vercel.app/api/pin/?username=vlenix2505&repo=Premier-League-Performance-Analytics&hide_border=true&theme=default)](https://github.com/vlenix2505/Premier-League-Performance-Analytics)
 
-[![Global Market](https://github-readme-stats.vercel.app/api/pin/?username=vlenix2505&repo=Global_Market_Report&hide_border=true&theme=default)](https://github.com/vlenix2505/Global_Market_Report)
-[![Asparagus Export](https://github-readme-stats.vercel.app/api/pin/?username=vlenix2505&repo=Esparrago-Peruano-Export-Analysis&hide_border=true&theme=default)](https://github.com/vlenix2505/Esparrago-Peruano-Export-Analysis)
+[![Global Market](https://github-stats-extended.vercel.app/api/pin/?username=vlenix2505&repo=Global_Market_Report&hide_border=true&theme=default)](https://github.com/vlenix2505/Global_Market_Report)
+[![Asparagus Export](https://github-stats-extended.vercel.app/api/pin/?username=vlenix2505&repo=Esparrago-Peruano-Export-Analysis&hide_border=true&theme=default)](https://github.com/vlenix2505/Esparrago-Peruano-Export-Analysis)
 
-[![Heart Disease](https://github-readme-stats.vercel.app/api/pin/?username=vlenix2505&repo=Heart_Disease_Prediction&hide_border=true&theme=default)](https://github.com/vlenix2505/Heart_Disease_Prediction)
-[![GreenData](https://github-readme-stats.vercel.app/api/pin/?username=vlenix2505&repo=GreenData&hide_border=true&theme=default)](https://github.com/vlenix2505/GreenData)
+[![Heart Disease](https://github-stats-extended.vercel.app/api/pin/?username=vlenix2505&repo=Heart_Disease_Prediction&hide_border=true&theme=default)](https://github.com/vlenix2505/Heart_Disease_Prediction)
+[![GreenData](https://github-stats-extended.vercel.app/api/pin/?username=vlenix2505&repo=GreenData&hide_border=true&theme=default)](https://github.com/vlenix2505/GreenData)
 
 </div>
 
@@ -88,8 +88,8 @@ Systems Engineering student at **UPC** (9th semester) with a strong focus on **D
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=vlenix2505&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vlenix2505&layout=compact&theme=default&hide_border=true&langs_count=6" />
+<img height="160" src="https://github-stats-extended.vercel.app/api?username=vlenix2505&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="160" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vlenix2505&layout=compact&theme=default&hide_border=true&langs_count=6" />
 
 </div>
 

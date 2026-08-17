@@ -13,7 +13,7 @@
 
 ## About Me
 
-Systems Engineering student at **UPC** (9th semester) with a strong focus on **Data Analytics** and **Data Engineering**. I transform raw data into actionable insights through end-to-end pipelines — from ingestion and processing to visualization and reporting.
+Systems Engineering student at **UPC** (10th semester) with a strong focus on **Data Analytics** and **Data Engineering**. I transform raw data into actionable insights through end-to-end pipelines — from ingestion and processing to visualization and reporting.
 
 - 🎓 B.S. in Information Systems Engineering — Universidad Peruana de Ciencias Aplicadas
 - 📊 Passionate about turning complex datasets into clear, impactful stories
